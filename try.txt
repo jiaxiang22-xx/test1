@@ -1,4 +1,10 @@
+begin
 first one line
+<<<<<<< HEAD
 second line ,this is second line
 %%add a line
 end
+=======
+second line,thies is 2ed line 
+add a line
+>>>>>>> c
